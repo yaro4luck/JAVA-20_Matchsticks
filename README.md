@@ -19,5 +19,4 @@
   
 ![Пример работы программы](screen.png)
 
-:copyright:yaro4luck
- 
+:copyright: yaro4luck
